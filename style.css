@@ -8,7 +8,7 @@ body{
     text-align: center;
 }
 body {
-	width: 100vw;
+	width: 100%;
 	height: 100vh;
 	background: linear-gradient(334deg, #6b97f7, #7525e2, #f7137e);
 	background-size: 180% 180%;
